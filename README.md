@@ -6,9 +6,9 @@
 
 ---
 
-## Skills
+## Skills & Interests
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,regex,python,fastapi,flask,git,docker,nginx,mongodb,grafana,cloudflare,cmake,arch,debian,ubuntu,mint,raspberrypi,apple,windows,anaconda,pycharm,vscodium,replit,figma,github,discord,gmail&perline=7)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,bash,regex,python,fastapi,flask,git,docker,nginx,mongodb,grafana,cloudflare,cmake,arch,debian,ubuntu,mint,raspberrypi,apple,windows,anaconda,pycharm,vscodium,replit,figma,github,discord,gmail&perline=7)](https://skillicons.dev)
 
 ---
 
