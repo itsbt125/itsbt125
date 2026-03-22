@@ -2,7 +2,7 @@
 
 > https://btea.dev
 
-14-year-old obsessed with open source and tinkering, now deep into the cybersecurity rabbit hole.
+Obsessed with open source and tinkering, now deep into the cybersecurity rabbit hole.
 
 ---
 
