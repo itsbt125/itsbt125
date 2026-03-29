@@ -1,6 +1,6 @@
 ## Hey, I'm Brandon (btea)
 
-> https://btea.dev
+> https://itsbt125.github.io
 
 Obsessed with open source and tinkering, now deep into the cybersecurity rabbit hole.
 
