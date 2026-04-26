@@ -29,4 +29,4 @@ Obsessed with open source and tinkering, now deep into the cybersecurity rabbit 
 ## Contact
 
 email — brandon@btea.dev  
-discord — u3khh3cbhr
+discord — btea.dev
