@@ -2,8 +2,6 @@
 
 > https://btea.dev
 
-> https://shred.btea.dev — my free & open source file share (token gated to prevent abuse)
-
 Obsessed with open source and tinkering, now deep into the cybersecurity rabbit hole.
 
 ---
