@@ -12,7 +12,6 @@ Obsessed with open source and tinkering, now deep into the cybersecurity rabbit 
 - Self-hosting and tinkering with hardware
 - AI/Ml
   
---
 
 ## Currently Learning
 
