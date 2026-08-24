@@ -10,16 +10,15 @@ Obsessed with open source and tinkering, now deep into the cybersecurity rabbit 
 
 - Linux & open source everything
 - Self-hosting and tinkering with hardware
-- Cybersecurity — CTFs, recon, OSINT, etc
-- Low-level computing (learning)
-
----
+- AI/Ml
+  
+--
 
 ## Currently Learning
 
-- Cybersecurity (CTFs, networking, recon)
-- C++ (slowly transitioning from Python)
-- Low-level computing
+- cybersecurity
+- C (slowly transitioning from Python)
+- low-level computing
 
 ---
 
