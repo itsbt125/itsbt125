@@ -10,7 +10,7 @@ Obsessed with open source and tinkering, now deep into the cybersecurity rabbit 
 
 - Linux & open source everything
 - Self-hosting and tinkering with hardware
-- AI/Ml
+- AI/ML
   
 
 ## Currently Learning
