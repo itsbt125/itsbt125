@@ -8,8 +8,8 @@ Obsessed with open source and tinkering, now deep into the cybersecurity rabbit 
 
 ## Interests
 
-- Linux & open source everything
-- Self-hosting and tinkering with hardware
+- linux & oss in general
+- self-hosting :)
 - AI/ML
   
 
